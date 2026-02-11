@@ -1,0 +1,21 @@
+h1{text-align: center;
+background-color: forestgreen;
+border-radius: 40px;
+color: azure;
+}
+
+
+p{background-color: rgb(240, 243, 244);
+color: rgb(9, 9, 9);
+border-radius: 10px;
+text-align: center;
+}
+
+
+#rasm {
+width: 600px;
+border-radius: 20px;
+margin-left: 480px;
+}
+
+
